@@ -1,0 +1,23 @@
+
+
+body{
+    background-color: #171717;
+}
+.top-btn{
+    background-color: #E6533C;
+}
+#card-1{
+    background-color: #323443;
+}
+#card-2 , .first-card{
+    background-color: #232532;
+}
+#card-3{
+    background-color: #323443;
+}
+#card-4{
+    background-color: #4F5261;
+}
+.hr{
+    height: 3px;
+}
